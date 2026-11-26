@@ -90,7 +90,7 @@ st.markdown("""
     
     /* Input Sensor Grid Card */
     .sensor-card {
-        background: #ffffff;
+        background: skyblue;
         border: 1px solid #e2e8f0;
         border-radius: 20px;
         padding: 2rem 2.5rem;
