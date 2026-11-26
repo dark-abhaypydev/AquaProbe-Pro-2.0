@@ -89,7 +89,7 @@ st.markdown("""
     }
     
     /* Input Sensor Grid Card */
-    .sensor-card {
+    . {
         background: skyblue;
         border: 1px solid #e2e8f0;
         border-radius: 20px;
@@ -251,7 +251,7 @@ if st.session_state.page == "input":
     st.markdown("<div style='height:14px;'></div>", unsafe_allow_html=True)
 
     # 3-Column 9 Sensor Channels
-    st.markdown("<div class='sensor-card'>", unsafe_allow_html=True)
+    st.markdown("<div class=''>", unsafe_allow_html=True)
     col1, col2, col3 = st.columns(3, gap="large")
 
     with col1:
