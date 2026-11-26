@@ -105,7 +105,7 @@ st.markdown("""
         font-family: 'Outfit', sans-serif;
         font-size: 1.15rem;
         font-weight: 700;
-        color: #0f172a;
+        color: blue;
         margin-bottom: 0.8rem;
         display: flex;
         align-items: center;
